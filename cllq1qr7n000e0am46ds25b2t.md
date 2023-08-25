@@ -1,6 +1,6 @@
 ---
 title: "Dominando el uso efectivo de useState en React: Guía completa"
-seoTitle: "Dominando el uso efectivo de useState en React: Guía completa"
+seoTitle: "Dominando el uso efectivo de useState en React: Guía completa | MDCDEV"
 seoDescription: "Aprende cómo utilizar useState en React de manera efectiva para mejorar tus habilidades de desarrollo. Esta guía completa te proporciona ejemplos prácticos"
 datePublished: Fri Aug 25 2023 03:42:03 GMT+0000 (Coordinated Universal Time)
 cuid: cllq1qr7n000e0am46ds25b2t
